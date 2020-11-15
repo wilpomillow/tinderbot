@@ -1,6 +1,8 @@
 # tinderbot
 Automate swiping based on top profile picture
 
+[Demo: https://www.youtube.com/watch?v=vfxA04a8_hU]
+
 Will require user to log into Tinder web platform and then activate the bot
 (This is due to Tinder's security features that block swiper bots - A test account was banned during testing)
 
